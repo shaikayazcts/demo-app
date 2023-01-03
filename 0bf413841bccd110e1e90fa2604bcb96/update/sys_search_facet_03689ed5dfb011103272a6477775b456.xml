@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_facet">
+    <sys_search_facet action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_facet_name>x_804955_volunte_0_event.capacity_status</ais_facet_name>
+        <label>Capacity</label>
+        <name>Full</name>
+        <option_limit>10</option_limit>
+        <order>300</order>
+        <search_context_config display_value="Volunteering Management  - Event Registration Sear">1f689ed567b01110cee46e27a4b90357</search_context_config>
+        <sys_class_name>sys_search_facet</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2021-01-15 18:49:58</sys_created_on>
+        <sys_id>03689ed5dfb011103272a6477775b456</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_804955_volunte_0_event.capacity_status</sys_name>
+        <sys_package display_value="demo app" source="x_804955_demo_app">0bf413841bccd110e1e90fa2604bcb96</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo app">0bf413841bccd110e1e90fa2604bcb96</sys_scope>
+        <sys_update_name>sys_search_facet_03689ed5dfb011103272a6477775b456</sys_update_name>
+        <sys_updated_by>jared.prim</sys_updated_by>
+        <sys_updated_on>2021-01-19 18:39:04</sys_updated_on>
+    </sys_search_facet>
+</record_update>

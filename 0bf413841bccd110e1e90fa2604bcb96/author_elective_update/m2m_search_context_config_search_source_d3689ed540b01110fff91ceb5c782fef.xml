@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="DELETE">
+        <order>100</order>
+        <search_context_config display_value="Volunteering Management  - Event Registration  Wor">5b689ed542b011103ec62316f130f957</search_context_config>
+        <source display_value="">13689ed51eb01110285ae283875d0de9</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-14 21:53:12</sys_created_on>
+        <sys_id>d3689ed540b01110fff91ceb5c782fef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="demo app" source="x_804955_demo_app">0bf413841bccd110e1e90fa2604bcb96</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo app">0bf413841bccd110e1e90fa2604bcb96</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_d3689ed540b01110fff91ceb5c782fef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-14 21:53:12</sys_updated_on>
+    </m2m_search_context_config_search_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="demo app">0bf413841bccd110e1e90fa2604bcb96</application>
+        <file_path/>
+        <instance_id>a3307ffadb08f8109a4dcac5059619cf</instance_id>
+        <instance_name>dev116624</instance_name>
+        <name>m2m_search_context_config_search_source_d3689ed540b01110fff91ceb5c782fef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source"><m2m_search_context_config_search_source action="INSERT_OR_UPDATE"><order>100</order><search_context_config display_value="Volunteering Management  - Event Registration  Wor">5b689ed542b011103ec62316f130f957</search_context_config><source display_value="">13689ed51eb01110285ae283875d0de9</source><sys_class_name>m2m_search_context_config_search_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-14 21:53:12</sys_created_on><sys_id>d3689ed540b01110fff91ceb5c782fef</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="demo app" source="x_804955_demo_app">0bf413841bccd110e1e90fa2604bcb96</sys_package><sys_policy/><sys_scope display_value="demo app">0bf413841bccd110e1e90fa2604bcb96</sys_scope><sys_update_name>m2m_search_context_config_search_source_d3689ed540b01110fff91ceb5c782fef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-14 21:53:12</sys_updated_on></m2m_search_context_config_search_source></record_update>]]></payload>
+        <payload_hash>-2082626142</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5000eeb31b130110e1e90fa2604bcb21</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-05-13 12:23:25</sys_created_on>
+        <sys_id>360257dd1b741110e1e90fa2604bcb92</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>180bd5faa480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Application Search Sources</type>
+        <update_guid>f20257ddd2741110266d0e68f3236e92</update_guid>
+        <update_guid_history>f20257ddd2741110266d0e68f3236e92:-2082626142</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3e0257dd1b741110e1e90fa2604bcb93</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-19 11:11:25</sys_created_on>
+        <sys_db_object display_value="" name="m2m_search_context_config_search_source">m2m_search_context_config_search_source</sys_db_object>
+        <sys_id>0b2c5689ca534cba8085f449d57c9951</sys_id>
+        <sys_metadata>d3689ed540b01110fff91ceb5c782fef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="demo app" source="x_804955_demo_app">0bf413841bccd110e1e90fa2604bcb96</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="demo app">0bf413841bccd110e1e90fa2604bcb96</sys_scope>
+        <sys_scope_delete display_value="">af6ce0548c4a422c827682bd26e95010</sys_scope_delete>
+        <sys_update_name>m2m_search_context_config_search_source_d3689ed540b01110fff91ceb5c782fef</sys_update_name>
+        <sys_update_version display_value="m2m_search_context_config_search_source_d3689ed540b01110fff91ceb5c782fef">360257dd1b741110e1e90fa2604bcb92</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-19 11:11:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
